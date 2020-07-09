@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/deepkit/deepkit/master/assets/logo-white.png"/>
 </a>
 
-**Deepkit®** - Founder<br/>
+**Deepkit®** - Founder
 <br/>
 <br/>
 The open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
