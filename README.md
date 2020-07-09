@@ -23,11 +23,10 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 
 <a href="https://deepkit.ai">deepkit.ai</a> 
-
+<br/>
 <a href="https://github.com/deepkit/deepkit">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
-</a> 
-
+</a>
 <a href="https://twitter.com/deepkitai">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width=20 height=20 />
 </a>
