@@ -30,6 +30,6 @@ The new high-performance Typescript Framework that cuts development time by 5x.
 Not yet published.
 <br/>
 <br/>
-<br/>
+<img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
 
 </div>
