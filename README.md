@@ -1,11 +1,18 @@
-Hi I'm Marc.
 
 <div align="center">
+  
+<a href="https://deepkit.ai">
 <img src="https://raw.githubusercontent.com/deepkit/deepkit/master/assets/logo-white.png"/>
+</a>
 
 **Deepkit®** - Founder<br/>
 <br/>
-<br/>
+<table>
+  <tr>
+    <td><a href="https://deepkit.ai">deepkit.ai</td>
+    <td><a href="https://github.com/deepkit/deepkit">Github</td>
+  </tr>
+</table>
 <br/>
 <br/>
 </p>
@@ -14,7 +21,11 @@ Hi I'm Marc.
 
 **Super Hornet** - Founder
 <br/>
+Not yet published.
 <br/>
+<table>
+  <tr><td><a href="https://super-hornet.com">super-hornet.com</td></tr>
+</table>
 <br/>
 <br/>
 </div>
