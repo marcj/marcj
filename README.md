@@ -22,7 +22,8 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <br/>
 <a href="https://deepkit.ai">deepkit.ai</a> - 
-<a href="https://github.com/deepkit/deepkit">Github</a>
+<a href="https://github.com/deepkit/deepkit"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 /></a> 
+<a href="https://twitter.com/deepkitai"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width=20 height=20 /></a>
 <br/>
 <br/>
 <br/>
