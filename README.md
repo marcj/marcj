@@ -5,6 +5,9 @@
   
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/deepkit-screen-cut.png" align="right" />
   
+<br/>
+<br/>
+<br/>
 <a href="https://deepkit.ai">
 <img src="https://raw.githubusercontent.com/deepkit/deepkit/master/assets/logo-white.png"/>
 </a>
@@ -20,8 +23,6 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <a href="https://deepkit.ai">deepkit.ai</a> - 
 <a href="https://github.com/deepkit/deepkit">Github</a>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
