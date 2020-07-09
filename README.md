@@ -21,7 +21,7 @@
 The new open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
 <br/>
 <br/>
-<d
+
 <a href="https://deepkit.ai">deepkit.ai</a> 
 
 <a href="https://github.com/deepkit/deepkit">
