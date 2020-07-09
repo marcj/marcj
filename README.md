@@ -19,10 +19,7 @@ The open-source machine learning devtool and analytical training suite for insig
 <a href="https://deepkit.ai">deepkit.ai</a> - 
 <a href="https://github.com/deepkit/deepkit">Github</a>
 <br/>
-<br/>
-</p>
 
-<br/>
 <hr/>
 <br/>
 
