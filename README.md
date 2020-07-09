@@ -26,8 +26,7 @@ The open-source devtool and analytical training suite for insightful, fast, and 
 **Super Hornet** - Founder
 <br/>
 <br/>
-The new high-performance Typescript Framework that cuts development time by 5x.
-Not yet published.
+The new high-performance Typescript Framework for isomorphic Typescript apps.
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
