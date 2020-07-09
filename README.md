@@ -11,7 +11,7 @@
 **Deepkit®** - Founder
 <br/>
 <br/>
-The open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
+The new open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
 <br/>
 <br/>
 <a href="https://deepkit.ai">deepkit.ai</a> - 
@@ -26,7 +26,7 @@ The open-source devtool and analytical training suite for insightful, fast, and 
 **Super Hornet** - Founder
 <br/>
 <br/>
-The new high-performance Typescript Framework for isomorphic Typescript apps.
+The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
