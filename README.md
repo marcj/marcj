@@ -65,10 +65,6 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <hr/>
 <br/>
