@@ -11,7 +11,9 @@
 **Deepkit®** - Founder<br/>
 <br/>
 <br/>
+<p width=450>
 The open-source machine learning devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
+</p>
 <br/>
 <br/>
 <a href="https://deepkit.ai">deepkit.ai</a> - 
@@ -19,6 +21,10 @@ The open-source machine learning devtool and analytical training suite for insig
 <br/>
 <br/>
 </p>
+
+<br/>
+<hr/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/SUPERHORNET.svg" />
 
