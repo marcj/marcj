@@ -11,7 +11,7 @@
 **Deepkit®** - Founder<br/>
 <br/>
 <br/>
-The open-source machine learning devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
+The open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
 <br/>
 <br/>
 <a href="https://deepkit.ai">deepkit.ai</a> - 
