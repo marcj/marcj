@@ -10,12 +10,8 @@
 
 **Deepkit®** - Founder<br/>
 <br/>
-<table>
-  <tr>
-    <td><a href="https://deepkit.ai">deepkit.ai</td>
-    <td><a href="https://github.com/deepkit/deepkit">Github</td>
-  </tr>
-</table>
+<a href="https://deepkit.ai">deepkit.ai</a> - 
+<a href="https://github.com/deepkit/deepkit">Github</a>
 <br/>
 <br/>
 </p>
@@ -28,9 +24,6 @@
 The new high-performance Typescript Framework that cuts development time by 5x.
 Not yet published.
 <br/>
-<table>
-  <tr><td><a href="https://super-hornet.com">super-hornet.com</td></tr>
-</table>
 <br/>
 <br/>
 
