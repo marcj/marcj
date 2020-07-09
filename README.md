@@ -2,7 +2,7 @@
   
 <div align="center">
   
-  <h3>Freelancer developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
+  <h3>Freelance developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
   
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.
   
