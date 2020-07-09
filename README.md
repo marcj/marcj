@@ -1,4 +1,7 @@
 Hi
 
-<div style="height:height: 500px; background-color: black;">
-</div>
+<table height=500>
+  <tr>
+    <td bgcolor="black"></td>
+  </tr>
+</table>
