@@ -218,6 +218,7 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <br/>
 
 <img src="https://avatars1.githubusercontent.com/u/7001307?v=4&s=130" />
+
 **Jarves** - Creator
 <br/>
 <br/>
@@ -257,8 +258,6 @@ Jarves CMS/Application Framework based on Symfony - alpha material. Never was ab
 <br/>
 <br/>
 A enterprise open-source Content-Management-System and Content-Management-Framework with a full RESTful API written in PHP and JavaScript.
-<br/>
-<br/>
 <br/>
 <br/>
 <a href="https://github.com/marcj/kryn.cms-standalone-very-old">
