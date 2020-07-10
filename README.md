@@ -80,7 +80,8 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 **Super Hornet** - Founder
 <br/>
 <br/>
-The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.<br/>
+The new open-source high-performance Typescript Framework for sophisticated Typescript apps.<br/>
+Super Hornet is a set of reusable Typescript components and a server Framework for isomorphic and sophisticated Typescript projects like complex admin interfaces, games, desktop and mobile apps.<br/>
 Not yet released.
 <br/>
 <br/>
