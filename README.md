@@ -7,7 +7,7 @@
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
   I'm focusing primarily complex and sophisticated web applications. I'm available for hire.<br/>
   <br/>
-  <h4>♥️ Open-Source</h4>
+  <h4>♥️ &nbsp; Open-Source</h4>
   As an open-source developer for a decade now I invested many hundreds of thousands of dollars privately so everyone
   can use my software for free. I love creating products, writing code, and helping people. Following are my OSS projects.<br/>
   <br/>
@@ -240,7 +240,6 @@ Jarves CMS/Application Framework based on Symfony - alpha material. Never was ab
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/kryn-screen-cut.png" align="left" />
 
-<br/>
 <br/>
 <br/>
 <br/>
