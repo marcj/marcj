@@ -333,9 +333,9 @@ Jarves CMS/Application Framework based on Symfony - alpha material. Never was ab
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/kryn-cms-logo.png" /><br/>
-<br/>
 **Kryn** - Creator
 <br/>
 <br/>
