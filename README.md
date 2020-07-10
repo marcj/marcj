@@ -130,6 +130,33 @@ Make truly responsive web components using CSS container/element queries, with h
 <br/>
 <br/>
 <br/>
+<img src="https://raw.github.com/super-hornet/super-hornet.ts/master/packages/marshal/assets/marshal-logo.png" width="150px" /><br/>
+
+**Marshal** - Creator
+<br/>
+<br/>
+The fastest JIT-based data serializer and validator on the planet for Typescript.
+<br/>
+<br/>
+![Stars](https://img.shields.io/github/stars/marcj/marshal.ts.svg?label=Stars&maxAge=3600)
+![npm downloads](https://img.shields.io/npm/dt/@marcj/marshal)
+![npm version](https://img.shields.io/npm/v/@marcj/marshal.svg)
+<br/>
+<br/>
+<a href="https://github.com/super-hornet/super-hornet.ts/blob/master/packages/marshal/README.md">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
+<br/>
+
+
+<h2></h2>
+
+
+<br/>
+<br/>
+<br/>
 <img src="https://avatars3.githubusercontent.com/u/11821812?v=3&s=100" /><br/>
 
 **PHP-PM** - Creator
