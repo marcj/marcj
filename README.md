@@ -213,9 +213,6 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <img src="https://avatars1.githubusercontent.com/u/7001307?v=4&s=130" />
 
@@ -232,9 +229,6 @@ Jarves CMS/Application Framework based on Symfony - alpha material. Never was ab
 <a href="https://github.com/jarves/jarves">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
