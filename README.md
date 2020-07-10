@@ -236,7 +236,7 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <br/>
 
 
-<h2></h2>
+<h2>Abandoned projects</h2>
 <br/>
 <br/>
 
