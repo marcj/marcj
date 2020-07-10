@@ -5,6 +5,10 @@
   <h3>Freelance developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
   
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
+  I'm focusing primarily complex and sophisticated web applications. I'm available for hire.<br/>
+  <br/>
+  <br/>
+  <h4>♥️ Open-Source</h4>
   As an open-source developer for a decade now I invested many hundreds of thousands of dollars privately so everyone
   can use my software for free. I love creating products, writing code, and helping people. Following are my OSS projects.
   
@@ -99,7 +103,7 @@ Not yet released.
 **css-element-queries** - Creator
 <br/>
 <br/>
-Make the truly responsive web components using CSS container/element queries, with high-speed resize sensor.
+Make truly responsive web components using CSS container/element queries, with high-speed resize sensor.
 <br/>
 <br/>
 ![Stars](https://img.shields.io/github/stars/marcj/css-element-queries.svg?label=Stars&maxAge=3600)
@@ -114,17 +118,12 @@ Make the truly responsive web components using CSS container/element queries, wi
 <a href="https://github.com/marcj/css-element-queries">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
+<br/>
+<br/>
+<br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h2>Former open-source projects</h3>
+
 
 <br/>
 <br/>
@@ -201,6 +200,65 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <a href="https://github.com/marcj/topsort.php">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
+<br/>
+<br/>
+<br/>
+
+
+<h2></h2>
+
+<img src="https://raw.githubusercontent.com/marcj/marcj/master/jarves-screen-cut.png" align="right" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Jarves** - Creator
+<br/>
+<br/>
+Jarves CMS/Application Framework based on Symfony - alpha material. Never was able to release a final version.
+<br/>
+<br/>
+![Stars](https://img.shields.io/github/stars/jarves/jarves.svg?label=Stars&maxAge=3600)
+![packagist version](https://img.shields.io/packagist/v/jarves/jarves.svg)
+<br/>
+<br/>
+<a href="https://github.com/jarves/jarves">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<h2></h2>
+
+
+<img src="https://raw.githubusercontent.com/marcj/marcj/master/kryn-screen-cut.png" align="left" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Kryn** - Creator
+<br/>
+<br/>
+A enterprise open-source Content-Management-System and Content-Management-Framework with a full RESTful API written in PHP and JavaScript.
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/marcj/kryn.cms-standalone-very-old">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
