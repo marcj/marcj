@@ -273,19 +273,19 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <h2>And some more</h2>
 
 
-<p>
 [typedoc-plugin-lerna-packages](https://github.com/marcj/typedoc-plugin-lerna-packages)
+
 ![Stars](https://img.shields.io/github/stars/marcj/topsort.php.svg?label=Stars&maxAge=3600)
 ![packagist downloads](https://img.shields.io/packagist/dt/marcj/topsort.svg)
 ![packagist version](https://img.shields.io/packagist/v/marcj/topsort.svg)
-</p>
 
-<p>
+
+
 [php-rest-service](https://github.com/marcj/php-rest-service)
+
 ![Stars](https://img.shields.io/github/stars/marcj/php-rest-service.svg?label=Stars&maxAge=3600)
 ![packagist downloads](https://img.shields.io/packagist/dt/marcj/php-rest-service.svg)
 ![packagist version](https://img.shields.io/packagist/v/marcj/php-rest-service.svg)
-</p>
 
 
 <br/>
