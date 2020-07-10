@@ -297,7 +297,13 @@ A jQuery plugin for replacing select elements.
 ![Stars](https://img.shields.io/github/stars/marcj/jquery-selectBox.svg?label=Stars&maxAge=3600)
 
 
-<br/>
+
+[Pesto](https://github.com/marcj/Pesto)<br/>
+High-performance GUI framework in C++ highly inspired by CSS and HTML, using Skia as rendering engine.
+
+![Stars](https://img.shields.io/github/stars/marcj/Pesto.svg?label=Stars&maxAge=3600)
+
+
 <br/>
 
 <h2>Abandoned projects</h2>
