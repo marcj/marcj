@@ -77,7 +77,7 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 **Super Hornet** - Founder
 <br/>
 <br/>
-The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.<br/
+The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.<br/>
 Not yet released.
 <br/>
 <br/>
@@ -111,6 +111,38 @@ Make the truly responsive web components using CSS container/element queries, wi
 <br/>
 <br/>
 <a href="https://github.com/marcj/css-element-queries">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h3>Former open-source projects</h3>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**PHP-PM** - Creator
+<br/>
+<br/>
+PPM is a process manager, supercharger, and load balancer for modern PHP applications.
+<br/>
+![Stars](https://img.shields.io/github/stars/php-pm/php-pm.svg?label=Stars&maxAge=3600)
+![packagist downloads](https://img.shields.io/packagist/dt/php-pm/php-pm.svg)
+![packagist version](https://img.shields.io/packagist/v/php-pm/php-pm.svg)
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/php-pm/php-pm">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
 
