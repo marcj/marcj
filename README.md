@@ -66,7 +66,8 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <br/>
 
-<hr/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -83,7 +84,10 @@ Not yet released.
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
 
 
-<hr/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/css-element-queries-code2.png" align="left" />
 
