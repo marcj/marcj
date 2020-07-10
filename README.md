@@ -129,7 +129,6 @@ Make the truly responsive web components using CSS container/element queries, wi
 <br/>
 <br/>
 <br/>
-<br/>
 
 **PHP-PM** - Creator
 <br/>
@@ -142,12 +141,9 @@ PPM is a process manager, supercharger, and load balancer for modern PHP applica
 ![packagist version](https://img.shields.io/packagist/v/php-pm/php-pm.svg)
 <br/>
 <br/>
-<br/>
-<br/>
 <a href="https://github.com/php-pm/php-pm">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -157,7 +153,6 @@ PPM is a process manager, supercharger, and load balancer for modern PHP applica
 <h2></h2>
 
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -182,14 +177,12 @@ Highly customizable and high-performance ORM for PHP.
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 
 <h2></h2>
 
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -205,12 +198,9 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 ![packagist version](https://img.shields.io/packagist/v/marcj/topsort.svg)
 <br/>
 <br/>
-<br/>
-<br/>
 <a href="https://github.com/marcj/topsort.php">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
-<br/>
 <br/>
 <br/>
 <br/>
