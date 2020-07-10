@@ -7,10 +7,10 @@
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
   I'm focusing primarily complex and sophisticated web applications. I'm available for hire.<br/>
   <br/>
-  <br/>
   <h4>♥️ Open-Source</h4>
   As an open-source developer for a decade now I invested many hundreds of thousands of dollars privately so everyone
-  can use my software for free. I love creating products, writing code, and helping people. Following are my OSS projects.
+  can use my software for free. I love creating products, writing code, and helping people. Following are my OSS projects.<br/>
+  <br/>
   
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" />
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />
