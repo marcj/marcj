@@ -63,10 +63,7 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
-<br/>
+<h2></h2>
 <br/>
 <br/>
 <br/>
@@ -87,6 +84,7 @@ Not yet released.
 <br/>
 <br/>
 <br/>
+<h2></h2>
 <br/>
 <br/>
 <br/>
@@ -123,9 +121,8 @@ Make the truly responsive web components using CSS container/element queries, wi
 <br/>
 <br/>
 <br/>
-<hr/>
 <br/>
-<h3>Former open-source projects</h3>
+<h2>Former open-source projects</h3>
 
 <br/>
 <br/>
