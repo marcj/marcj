@@ -4,7 +4,9 @@
   
   <h3>Freelance developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
   
-  My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.
+  My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
+  I am an open-source developer for a decade now and invested many hundreds of thousands of dollars in it so everyone
+  can use my software for free. Following are my OSS projects.
   
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" />
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />
@@ -145,5 +147,72 @@ PPM is a process manager, supercharger, and load balancer for modern PHP applica
 <a href="https://github.com/php-pm/php-pm">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<h2></h2>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Propel2** - Former Lead Developer
+<br/>
+<br/>
+Highly customizable and high-performance ORM for PHP.
+<br/>
+<br/>
+![Stars](https://img.shields.io/github/stars/propelorm/propel2.svg?label=Stars&maxAge=3600)
+![packagist downloads](https://img.shields.io/packagist/dt/propel/propel.svg)
+![packagist version](https://img.shields.io/packagist/v/propel/propel.svg)
+<br/>
+<br/>
+<a href="http://propelorm.org/">propelorm.org</a> 
+<br/>
+<br/>
+<a href="https://github.com/propelorm/propel2">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<h2></h2>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Topsort** - Creator
+<br/>
+<br/>
+High-Performance Topological Sort / Dependency resolver for PHP.
+<br/>
+<br/>
+![Stars](https://img.shields.io/github/stars/marcj/topsort.php.svg?label=Stars&maxAge=3600)
+![packagist downloads](https://img.shields.io/packagist/dt/marcj/topsort.svg)
+![packagist version](https://img.shields.io/packagist/v/marcj/topsort.svg)
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/marcj/topsort.php">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
 
 </div>
