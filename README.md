@@ -5,8 +5,8 @@
   <h3>Freelance developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
   
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
-  I am an open-source developer for a decade now and invested many hundreds of thousands of dollars in it so everyone
-  can use my software for free. Following are my OSS projects.
+  As an open-source developer for a decade now I invested many hundreds of thousands of dollars privately so everyone
+  can use my software for free. I love creating products, writing code, and helping people. Following are my OSS projects.
   
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" />
   <img width=20 height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />
