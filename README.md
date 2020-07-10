@@ -88,10 +88,11 @@ Not yet released.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/css-element-queries-code2.png" align="left" />
 
-<br/>
 <br/>
 <br/>
 
