@@ -273,8 +273,8 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <h2>And some more</h2>
 
 
-[typedoc-plugin-lerna-packages](https://github.com/marcj/typedoc-plugin-lerna-packages) A plugin for Typedoc that groups all Lerna packages into own TS module.
-
+[typedoc-plugin-lerna-packages](https://github.com/marcj/typedoc-plugin-lerna-packages)<br/>
+A plugin for Typedoc that groups all Lerna packages into own TS module.
 
 ![Stars](https://img.shields.io/github/stars/marcj/topsort.php.svg?label=Stars&maxAge=3600)
 ![packagist downloads](https://img.shields.io/packagist/dt/marcj/topsort.svg)
@@ -282,7 +282,8 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 
 
 
-[php-rest-service](https://github.com/marcj/php-rest-service) PHP-Rest-Service is a very simple and fast PHP lib for REST APIs.
+[php-rest-service](https://github.com/marcj/php-rest-service)<br/>
+PHP-Rest-Service is a very simple and fast PHP lib for REST APIs.
 
 ![Stars](https://img.shields.io/github/stars/marcj/php-rest-service.svg?label=Stars&maxAge=3600)
 ![packagist downloads](https://img.shields.io/packagist/dt/marcj/php-rest-service.svg)
@@ -290,7 +291,8 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 
 
 
-[jquery-selectBox](https://github.com/marcj/jquery-selectBox) A jQuery plugin for replacing <select> elements.
+[jquery-selectBox](https://github.com/marcj/jquery-selectBox)<br/>
+A jQuery plugin for replacing select elements.
 
 ![Stars](https://img.shields.io/github/stars/marcj/jquery-selectBox.svg?label=Stars&maxAge=3600)
 
