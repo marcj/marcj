@@ -152,6 +152,40 @@ The fastest JIT-based data serializer and validator on the planet for Typescript
 
 
 <h2></h2>
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/marcj/marcj/master/angular-desktop-ui-screen-cut.png" align="right" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Angular-Desktop-UI** - Creator
+<br/>
+<br/>
+Angular & Electron desktop UI framework. Angular components for native looking and behaving macOS desktop UI.
+<br/>
+<br/>
+![Stars](https://img.shields.io/github/stars/marcj/angular-desktop-ui.svg?label=Stars&maxAge=3600)
+![npm downloads](https://img.shields.io/npm/dt/@marcj/angular-desktop-ui)
+![npm version](https://img.shields.io/npm/v/@marcj/angular-desktop-ui.svg)
+<br/>
+<br/>
+<a href="https://angular-desktop-ui.marcj.de">angular-desktop-ui.marcj.de</a><br/>
+<br/>
+<a href="https://github.com/jarves/jarves">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<h2></h2>
 
 
 <br/>
@@ -235,6 +269,27 @@ High-Performance Topological Sort / Dependency resolver for PHP.
 <br/>
 <br/>
 
+
+<h2>And some more</h2>
+
+
+<p>
+[typedoc-plugin-lerna-packages](https://github.com/marcj/typedoc-plugin-lerna-packages)
+![Stars](https://img.shields.io/github/stars/marcj/topsort.php.svg?label=Stars&maxAge=3600)
+![packagist downloads](https://img.shields.io/packagist/dt/marcj/topsort.svg)
+![packagist version](https://img.shields.io/packagist/v/marcj/topsort.svg)
+</p>
+
+<p>
+[php-rest-service](https://github.com/marcj/php-rest-service)
+![Stars](https://img.shields.io/github/stars/marcj/php-rest-service.svg?label=Stars&maxAge=3600)
+![packagist downloads](https://img.shields.io/packagist/dt/marcj/php-rest-service.svg)
+![packagist version](https://img.shields.io/packagist/v/marcj/php-rest-service.svg)
+</p>
+
+
+<br/>
+<br/>
 
 <h2>Abandoned projects</h2>
 <br/>
