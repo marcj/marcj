@@ -155,6 +155,7 @@ PPM is a process manager, supercharger, and load balancer for modern PHP applica
 <br/>
 <br/>
 <br/>
+<img src="https://marcjschmidt.de/assets/logos/propel.png" /><br/>
 
 **Propel2** - Former Lead Developer
 <br/>
