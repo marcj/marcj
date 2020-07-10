@@ -175,7 +175,7 @@ Angular & Electron desktop UI framework. Angular components for native looking a
 <br/>
 <a href="https://angular-desktop-ui.marcj.de">angular-desktop-ui.marcj.de</a><br/>
 <br/>
-<a href="https://github.com/jarves/jarves">
+<a href="https://github.com/marcj/angular-desktop-ui">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
 <br/>
