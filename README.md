@@ -68,15 +68,43 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 
 <hr/>
 <br/>
+<br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/SUPERHORNET.svg" />
 
 **Super Hornet** - Founder
 <br/>
 <br/>
-The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.
+The new open-source high-performance Typescript Framework for sophisticated isomorphic Typescript apps.<br/
+Not yet released.
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
+
+
+<hr/>
+
+<br/>
+<br/>
+<br/>
+
+**css-element-queries** - Creator
+<br/>
+<br/>
+Make the truly responsive web components using CSS container/element queries, with high-speed resize sensor.
+<br/>
+![Stars](https://img.shields.io/github/stars/marcj/css-element-queries.svg?label=Stars&maxAge=3600)
+![npm downloads](https://img.shields.io/npm/dt/css-element-queries)
+![npm version](https://img.shields.io/npm/v/css-element-queries)
+<br/>
+<br/>
+<br/>
+<a href="http://marcj.github.io/css-element-queries">marcj.github.io/css-element-queries</a> 
+<br/>
+<br/>
+<a href="https://github.com/marcj/css-element-queries">
+  <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
+</a>
 
 </div>
