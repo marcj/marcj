@@ -5,7 +5,7 @@
   <h3>Freelance developer and entrepreneur from Hamburg, Germany. 🏄‍♂️</h3>
   
   My specialisation is entrepreneurship, full-stack development, machine learning, and robotics.<br/>
-  I'm focusing primarily complex and sophisticated web applications. I'm available for hire.<br/>
+  I'm primarily focued on complex and sophisticated web applications with high-performance characteristics. I'm available for hire.<br/>
   <br/>
   <h4>♥️ &nbsp; Open-Source</h4>
   As an open-source developer for a decade now I invested many hundreds of thousands of dollars privately so everyone
