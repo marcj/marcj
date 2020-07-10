@@ -101,6 +101,7 @@ Not yet released.
 <br/>
 Make the truly responsive web components using CSS container/element queries, with high-speed resize sensor.
 <br/>
+<br/>
 ![Stars](https://img.shields.io/github/stars/marcj/css-element-queries.svg?label=Stars&maxAge=3600)
 ![npm downloads](https://img.shields.io/npm/dt/css-element-queries)
 ![npm version](https://img.shields.io/npm/v/css-element-queries)
@@ -122,7 +123,8 @@ Make the truly responsive web components using CSS container/element queries, wi
 <br/>
 <br/>
 <br/>
-
+<hr/>
+<br/>
 <h3>Former open-source projects</h3>
 
 <br/>
@@ -134,6 +136,7 @@ Make the truly responsive web components using CSS container/element queries, wi
 <br/>
 <br/>
 PPM is a process manager, supercharger, and load balancer for modern PHP applications.
+<br/>
 <br/>
 ![Stars](https://img.shields.io/github/stars/php-pm/php-pm.svg?label=Stars&maxAge=3600)
 ![packagist downloads](https://img.shields.io/packagist/dt/php-pm/php-pm.svg)
