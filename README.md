@@ -51,14 +51,14 @@
 **Deepkit®** - Founder
 <br/>
 <br/>
-The new open-source devtool and analytical training suite for insightful, fast, and reproducible modern machine learning.
+Deepkit produces high-performance developer tools for state of the art technologies to accelerate developers around the world.
 <br/>
 <br/>
 
 <a href="https://deepkit.ai">deepkit.ai</a> 
 <br/>
 <br/>
-<a href="https://github.com/deepkit/deepkit">
+<a href="https://github.com/deepkit">
   <img valign="text-bottom" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width=20 height=20 />
 </a>
 <a href="https://twitter.com/deepkitai">
@@ -69,28 +69,7 @@ The new open-source devtool and analytical training suite for insightful, fast, 
 <br/>
 <br/>
 <br/>
-<h2></h2>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<img src="https://raw.githubusercontent.com/marcj/marcj/master/SUPERHORNET.svg" />
-
-**Super Hornet** - Founder
-<br/>
-<br/>
-The new open-source high-performance Typescript Framework for sophisticated Typescript apps.<br/>
-Super Hornet is a set of reusable Typescript components and a server Framework for isomorphic and sophisticated Typescript projects like complex admin interfaces, games, desktop and mobile apps.<br/>
-Not yet released.
-<br/>
-<br/>
-<img src="https://raw.githubusercontent.com/marcj/marcj/master/super-hornet-points.png" />
-
-
-<br/>
-<br/>
-<br/>
 <h2></h2>
 <br/>
 <br/>
